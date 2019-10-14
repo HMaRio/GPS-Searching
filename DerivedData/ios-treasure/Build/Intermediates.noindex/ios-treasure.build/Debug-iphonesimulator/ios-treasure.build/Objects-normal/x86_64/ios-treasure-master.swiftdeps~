@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "ba7ffc96dee17ab144d8bf307b6ee987"
+build_time: [1571052376, 140551000]
+inputs:
+  "/Users/mario/Documents/E-Books/Swift/Swift 3 - Das umfassende Handbuch/kapitel36/ios-treasure/ios-treasure/ArrowView.swift": !dirty [1570987957, 0]
+  "/Users/mario/Documents/E-Books/Swift/Swift 3 - Das umfassende Handbuch/kapitel36/ios-treasure/ios-treasure/MyLocationManager.swift": [1570975404, 0]
+  "/Users/mario/Documents/E-Books/Swift/Swift 3 - Das umfassende Handbuch/kapitel36/ios-treasure/ios-treasure/ViewController.swift": !dirty [1571001496, 0]
+  "/Users/mario/Documents/E-Books/Swift/Swift 3 - Das umfassende Handbuch/kapitel36/ios-treasure/ios-treasure/AppDelegate.swift": [1570966667, 0]
+  "/Users/mario/Documents/E-Books/Swift/Swift 3 - Das umfassende Handbuch/kapitel36/ios-treasure/ios-treasure/Position.swift": [1570970381, 0]
+  "/Users/mario/Documents/E-Books/Swift/Swift 3 - Das umfassende Handbuch/kapitel36/ios-treasure/ios-treasure/GlobalFunctions.swift": [1570969044, 0]
+  "/Users/mario/Documents/E-Books/Swift/Swift 3 - Das umfassende Handbuch/kapitel36/ios-treasure/ios-treasure/DetailVC.swift": !dirty [1571001311, 0]
+  "/Users/mario/Documents/E-Books/Swift/Swift 3 - Das umfassende Handbuch/kapitel36/ios-treasure/ios-treasure/SaveVC.swift": !dirty [1571001478, 0]
